@@ -1,15 +1,21 @@
-## Hi there, I'm Kevin! 👋
+# Hi there, I'm Kevin! 👋
 
 
-**kevinxiong613/kevinxiong613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 📚
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I love developing software 
+- 🌱 I'm currently learning all about Artificial Intelligence/Machine Learning, Full-Stack Development, and more!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: kevin.xiong613@gmail.com
+- 💼 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kevinxiong1) too :) 
+
+## 🖥️ Skills 
+
+```text
+Languages: Python, Java, JavaScript, TypeScript, SQL, C++, C, HTML/CSS
+Technologies: Node.js, Express.js, React.js, Next.js, PyTorch, Scikit-learn, Pandas, Spring Boot, Amazon Web Services,
+Docker, NumPy, Git, Postman, PostgreSQL, Tailwind CSS, RabbitMQ, Jupyter Notebook
+Concepts: Machine Learning, Augmented Reality, Human-Computer Interaction, Data Science, Data Analysis, Software
+Engineering, Data Structures and Algorithms, Agile Methodologies, Frontend, Backend, Systems, Game Development
