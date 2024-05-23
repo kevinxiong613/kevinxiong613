@@ -3,7 +3,7 @@
 
 ## About Me 📚
 
-- 🔭 I love developing software 
+- 🔭 I love exploring new technologies and utilizing them for software solutions! 
 - 🌱 I'm currently learning all about Artificial Intelligence/Machine Learning, Full-Stack Development, and more!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
