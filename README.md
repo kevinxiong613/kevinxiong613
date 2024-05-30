@@ -5,7 +5,7 @@
 
 - 🔭 I love exploring new technologies and utilizing them for software solutions! 
 - 🌱 I'm currently learning all about Artificial Intelligence/Machine Learning, Full-Stack Development, and more!
-- 🤔 Fun Fact: I have over 600,000 subscribers making a variety of gaming content on YouTube!
+- 🤔 Fun Fact: I have over 600,000 subscribers making a variety of gaming and audience-based content on YouTube!
 - 📫 How to reach me: kevin.xiong613@gmail.com
 - 💼 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kevinxiong1) too :) 
 
