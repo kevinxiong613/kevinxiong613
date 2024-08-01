@@ -12,7 +12,7 @@
 ## 🖥️ Skills 
 
 ```text
-Programming Languages: Python, Java, Go/Golang, JavaScript, C++, C, SQL, HTML/CSS
+Programming Languages: Python, Java, Go/Golang, JavaScript, C, SQL, HTML/CSS
 Technologies: Node.js, Express.js, React.js, Next.js, PyTorch, TensorFlow, Scikit-learn (Sklearn), Pandas, NumPy,
 Spring Boot, Amazon Web Services, Docker, Git, PostgreSQL, Tailwind CSS, Unix/Linux
 Concepts: Artificial Intelligence, Software Engineering, Data Science, Web Development, Agile, Backend, Frontend
